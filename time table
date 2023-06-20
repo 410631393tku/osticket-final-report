@@ -1,0 +1,2 @@
+下列車:SELECT*FROM train WHERE'台北出發的時間'<'板橋出發的時間'ORDERBY'台北出發的時間'
+北上列車:SELECT*FROM train WHERE'台北出發的時間'>橋站出發的時間'ORDERBY'台北出發的時間
