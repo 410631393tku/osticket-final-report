@@ -1,0 +1,6 @@
+customers(cus_name,cus_ID,tickets,reservation No, cus_date,cus_t
+ime)
+train(train No,[0],[1],[2],[3],[4],[5], [6]),[7])
+seat_info(reservation No,trainNo,carriage No,seat No,seat_date)
+state_table(city No,city_name)
+cancel_seat(cus_name,train_No, carriage_No,seat_No, seat_date)
