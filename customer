@@ -1,0 +1,2 @@
+INSERT INTO customer(reservation_No,cus_name, cus_ID,cus_time, cus_date,tickets)
+VALUES('使用者所輸入的資料')
