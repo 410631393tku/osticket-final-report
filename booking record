@@ -1,0 +1,3 @@
+SELECT (train_No, dep_time, carriage_No, seat_date, seat No)
+FROM customer INNER JOIN seat_ info
+WHERE reservation=使用者輸入的流水號碼'ANDcus_ID='使用者輸入的身分證字號'
