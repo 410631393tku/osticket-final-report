@@ -76,12 +76,6 @@
     (1)UI設計 
     https://www.figma.com/file/IiD8h8NSz0BQsK7aKOciOZ/UI%E8%A8%AD%E8%A8%88?type=design&node-id=0-1&t=KDy8oUeG8RfP8Rw6-0
     (2)描述系統功能與使用者互動行為
-    ![](https://hackmd.io/_uploads/BJ4ZE_av3.png)
-
-    
-    ![](https://hackmd.io/_uploads/S1NZ4OpD2.png)
-
-
     1. 查詢：訂票記錄、每日車班次
     2. 新增：訂票
     3. 刪除：訂票
@@ -100,5 +94,9 @@
     畫面顯示訂票相關資訊。
     d.票價是以區間長短以及車種的不同做運算。
 
+    ![](https://hackmd.io/_uploads/BJ4ZE_av3.png)
+
+    
+    ![](https://hackmd.io/_uploads/S1NZ4OpD2.png)
     
 
