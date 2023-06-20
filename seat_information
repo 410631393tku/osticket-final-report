@@ -1,0 +1,2 @@
+INSERT INTO seat_info (reservation_No, train_No, seat_date,carriage_No, seat_No)
+VALUES('使用者所輸入的資料')
