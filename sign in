@@ -1,0 +1,11 @@
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  username VARCHAR(255) UNIQUE NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  geom GEOMETRY(Point, 4326)
+);
+SELECT id, username
+FROM users
+WHERE username = '輸入的用户名' AND password = '輸入的密碼';
+INSERT INTO users (username, password, geom)
+VALUES ('新用户名', '新密碼', ST_GeomFromText('POINT(經度 緯度)', 4326));
