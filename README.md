@@ -93,7 +93,7 @@
     訂票成功會出現成功的訊息及檢視訂票的按鈕，點選檢視訂票則會導至訂票紀錄的
     畫面顯示訂票相關資訊。
     d.票價是以區間長短以及車種的不同做運算。
-
-    以下圖片是SQL的過程:
 ![](https://hackmd.io/_uploads/BJ4ZE_av3.png)
 ![](https://hackmd.io/_uploads/S1NZ4OpD2.png)
+    以上圖片是SQL的過程
+
