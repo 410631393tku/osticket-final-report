@@ -94,5 +94,6 @@
     畫面顯示訂票相關資訊。
     d.票價是以區間長短以及車種的不同做運算。
  ![](https://hackmd.io/_uploads/BJ4ZE_av3.png)
+ ![](https://hackmd.io/_uploads/S1NZ4OpD2.png)
     
 
