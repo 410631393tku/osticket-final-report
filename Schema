@@ -1,5 +1,4 @@
-customers(cus_name,cus_ID,tickets,reservation No, cus_date,cus_t
-ime)
+customers(cus_name,cus_ID,tickets,reservation No, cus_date,cus_time)
 train(train No,[0],[1],[2],[3],[4],[5], [6]),[7])
 seat_info(reservation No,trainNo,carriage No,seat No,seat_date)
 state_table(city No,city_name)
